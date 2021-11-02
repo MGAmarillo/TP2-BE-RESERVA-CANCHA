@@ -33,4 +33,4 @@ npm start
 
 ## Autores ✒️
 * Mateo Amarrillo - Desarrollador - [MGAmarillo](https://github.com/MGAmarillo)
-* Ignacio Nicolas Rodriguez - Desarrollador - [NachoRodriguez97](https://github.com/NachoRodriguez97)
+* Ignacio N Rodriguez - Desarrollador - [NachoRodriguez97](https://github.com/NachoRodriguez97)
